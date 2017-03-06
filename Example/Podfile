@@ -1,0 +1,11 @@
+use_frameworks!
+
+target 'BRMediator_Example' do
+  pod 'BRMediator', :path => '../'
+
+  target 'BRMediator_Tests' do
+    inherit! :search_paths
+
+    
+  end
+end
