@@ -5,6 +5,10 @@
 [![License](https://img.shields.io/cocoapods/l/BRMediator.svg?style=flat)](http://cocoapods.org/pods/BRMediator)
 [![Platform](https://img.shields.io/cocoapods/p/BRMediator.svg?style=flat)](http://cocoapods.org/pods/BRMediator)
 
+
+BRMediator 是iOS项目组件化的中间件，来自CTMediator
+[CTMediator](https://github.com/casatwy/CTMediator)
+
 ## Example
 
 To run the example project, clone the repo, and run `pod install` from the Example directory first.

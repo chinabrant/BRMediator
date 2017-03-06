@@ -8,8 +8,8 @@
 
 Pod::Spec.new do |s|
   s.name             = 'BRMediator'
-  s.version          = '0.1.0'
-  s.summary          = 'A short description of BRMediator.'
+  s.version          = '0.0.1'
+  s.summary          = 'BRMediator 是iOS项目组件化的中间件，来自CTMediator'
 
 # This description is used to generate tags and improve search results.
 #   * Think: What does it do? Why did you write it? What is the focus?
@@ -18,14 +18,15 @@ Pod::Spec.new do |s|
 #   * Finally, don't worry about the indent, CocoaPods strips it!
 
   s.description      = <<-DESC
-TODO: Add long description of the pod here.
+                        BRMediator 是iOS项目组件化的中间件，来自CTMediator
+                        [CTMediator](https://github.com/casatwy/CTMediator)
                        DESC
 
-  s.homepage         = 'https://github.com/sjwu1234@gmail.com/BRMediator'
+  s.homepage         = 'https://github.com/chinabrant/BRMediator'
   # s.screenshots     = 'www.example.com/screenshots_1', 'www.example.com/screenshots_2'
   s.license          = { :type => 'MIT', :file => 'LICENSE' }
   s.author           = { 'sjwu1234@gmail.com' => '812662025@qq.com' }
-  s.source           = { :git => 'https://github.com/sjwu1234@gmail.com/BRMediator.git', :tag => s.version.to_s }
+  s.source           = { :git => 'https://github.com/chinabrant/BRMediator.git', :tag => s.version.to_s }
   # s.social_media_url = 'https://twitter.com/<TWITTER_USERNAME>'
 
   s.ios.deployment_target = '8.0'

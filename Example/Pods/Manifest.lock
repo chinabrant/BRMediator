@@ -1,0 +1,16 @@
+PODS:
+  - BRMediator (0.1.0)
+
+DEPENDENCIES:
+  - BRMediator (from `../`)
+
+EXTERNAL SOURCES:
+  BRMediator:
+    :path: ../
+
+SPEC CHECKSUMS:
+  BRMediator: aa29b933f21ec36f3d564b2b847abd14e445db2e
+
+PODFILE CHECKSUM: 81fea866e33038650b1611ca535e249d17230b5c
+
+COCOAPODS: 1.2.0
